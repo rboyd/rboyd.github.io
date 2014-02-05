@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Brave New Bits]]></title>
+  <link href="http://rboyd.github.io/atom.xml" rel="self"/>
+  <link href="http://rboyd.github.io/"/>
+  <updated>2014-02-05T12:35:17-06:00</updated>
+  <id>http://rboyd.github.io/</id>
+  <author>
+    <name><![CDATA[Bobby Boyd]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
